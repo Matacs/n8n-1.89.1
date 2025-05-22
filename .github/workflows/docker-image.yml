@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: curucuteo/n8n-ffmpeg:1.89.1
+          tags: curucuteo/n8n-1.89.1:lastest
